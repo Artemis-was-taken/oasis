@@ -1,5 +1,5 @@
 # Oasis
-Oasis is an automatically updating proxy bookmarklet using the Utopia frontend.
+Oasis is an automatically updating proxy bookmarklet using the Utopia Unblocker.
 
 # Bookmarklet Code to Copy
 I'll put it here once it functions
